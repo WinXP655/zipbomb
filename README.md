@@ -52,8 +52,37 @@ Additional details about the content and potential threats are available at the 
 - More on VirusTotal (*encrypted archive*, **LZMA**):
   https://www.virustotal.com/gui/file/18ad7878bbb9db307888c7cbe792293f4701b6ffe950a60761b57d3189a157b2
 
-We've provided these VirusTotal links for your reference and evaluation of potential risks.
+# zod_xl.zip
+Another Zip bomb sample
 
-Please exercise **caution** and take all precautions when working with this archive.
+🔐 For security reasons, the archive is password protected.
+- *65500*
 
-With respect from the creator of the archive **WinXP**.
+⚖ **Extracted size**:
+
+**Layer 1**: 16 * 4294967296=68719476736(*68.72 GB*)
+
+**Layer 2**: 16 * 68719476736=1099511627776(*1.1 TB*)
+
+**Layer 3**: 16 * 1099511627776=17592186044416(*17.59 TB*)
+
+**Layer 4**: 16 * 17592186044416=281474976710656(*281.49 TB*)
+
+**Layer 5**: 16 * 281474976710656=4503599627370496(*450.36 TB*)
+
+**Layer 6**: 16 * 4503599627370496=72057594037927936(*64 PB*)
+
+**Layer 7**: 16 * 72057594037927936=1152921504606846976(*1 EB*)
+
+**Layer 8**: 16 * 1152921504606846976=18446744073709551616(*16 EB*)
+
+**Layer 9**: 16 * 18446744073709551616=295147905179352825856(*256 EB*)
+
+**Layer 10**: 16 * 295147905179352825856=4722366482869645213696(*4 ZB*)
+
+**Layer 11**: 16 * 4722366482869645213696=75557863725914323419136(*65.54 ZB)*
+
+**Layer 12**: 16 * 75557863725914323419136=1208925819614629174706176(*1.05 YB*)
+
+- More on VirusTotal: 
+  [https://www.virustotal.com/gui/file/7aead4ee7b91c81705e96fd031bc9542f6add3c880cd1281eb92b3b6a826d690](https://www.virustotal.com/gui/file/fe35d5cef69154609c643b1677dc4832d7fe8d829b8bf6608b6e315de6fac978)
