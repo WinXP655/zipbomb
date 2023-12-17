@@ -1,12 +1,16 @@
 # zipbomb
-Zip bomb 22.8 eb
+Zip bombs
 Hello!
 
-This is a zip bomb - an archive that contains potentially dangerous content.
+This is a zip bombs - an archives that contains potentially dangerous content.
 
-**WARNING**: Under no circumstances should you distribute this archive.
+**WARNING**: Under no circumstances should you distribute this archives.
 
-This archive is designed to demonstrate the potential for filling up disk space and potential system instability. Attempting to unpack the archive quickly fills up disk space, which can lead to system unresponsiveness.
+This archives is designed to demonstrate the potential for filling up disk space and potential system instability. Attempting to unpack the archive quickly fills up disk space, which can lead to system unresponsiveness.
+
+This archives are my handmade zip bombs. I've created it just for **demonstrating**. Do not use this as attack to a web site
+
+# zipbomb.zip
 
 🔐 For security reasons, the archive is password protected.
 - **Deflate** version: *zipbomb190*
@@ -87,7 +91,7 @@ Another Zip bomb sample
 - More on VirusTotal: 
   [https://www.virustotal.com/gui/file/7aead4ee7b91c81705e96fd031bc9542f6add3c880cd1281eb92b3b6a826d690](https://www.virustotal.com/gui/file/fe35d5cef69154609c643b1677dc4832d7fe8d829b8bf6608b6e315de6fac978)
 
-#ZOD_V2_enc.zip
+# ZOD_V2_enc.zip
 The most heavy of all zip bomb examples
 
 🔐 For security reasons, the archive is password protected.
