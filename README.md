@@ -97,8 +97,6 @@ The most heavy of all zip bomb examples
 🔐 For security reasons, the archive is password protected.
 - *zod_165*
 
-**Layer 0**: 15368709120 * 1 = 15368709120 (*5 GB*)
-
 **Layer 1**: 15368709120 * 20 = 307374182400 (*286.3 GB*)
 
 **Layer 2**: 307374182400 * 20 = 6147483648000 (*5.591 TB*)
