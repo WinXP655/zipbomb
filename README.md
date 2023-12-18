@@ -8,6 +8,8 @@ This is a zip bombs - an archives that contains potentially dangerous content.
 
 This archives is designed to demonstrate the potential for filling up disk space and potential system instability. Attempting to unpack the archive quickly fills up disk space, which can lead to system unresponsiveness.
 
+⚠️ **IMPORTANT**: Unpack this archive ONLY in an isolated environment to avoid negative consequences for your system and data. We strongly recommend refraining from distributing the archive to avoid unwanted problems.
+
 This archives are my handmade zip bombs. I've created it just for **demonstrating**. Do not use this as attack to a web site
 
 # zipbomb.zip
@@ -15,8 +17,6 @@ This archives are my handmade zip bombs. I've created it just for **demonstratin
 🔐 For security reasons, the archive is password protected.
 - **Deflate** version: *zipbomb190*
 - **LZMA** version: *zipbomb35*
-
-⚠️ **IMPORTANT**: Unpack this archive ONLY in an isolated environment to avoid negative consequences for your system and data. We strongly recommend refraining from distributing the archive to avoid unwanted problems.
 
 ⚖ **Extracted size**:
 
